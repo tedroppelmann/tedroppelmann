@@ -4,7 +4,7 @@
   I'm a Software Engineer 👨‍💻<br><br>📍 Based in Milan, Italy 🇮🇹 <br>🔭 I’m currently working on WorkInvoice<br>🌱 I’m currently learning HyperScript and HTMX<br>💡 I'm looking for new opportunities 
   </br>
   </br>
-  <a href="https://linkedin.com/in/tomas-droppelmann" target="_blank"> 
+  <a href="https://linkedin.com/in/tomas-droppelmann"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"> </img>
   </a>
 </div>
