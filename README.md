@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" width="250"/>
+  <h1>Hi there 👋</h1>
+</div>
+
 # 💫 About Me:
 I am a Software Engineer 👨‍💻<br><br>📍 Based in Milan, Italy 🇮🇹 <br>🔭 I’m currently working on WorkInvoice<br>🌱 I’m currently learning HyperScript and HTMX<br>💡 I'm looking for new opportunities 
 
