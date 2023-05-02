@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" width="250"/>
   <h1>Hi there 👋</h1>
-  I'm a Software Engineer 👨‍💻<br><br>📍 Based in Milan, Italy 🇮🇹 <br>🔭 I’m currently working on WorkInvoice<br>🌱 I’m currently learning HyperScript and HTMX<br>💡 I'm looking for new opportunities 
+  I'm a Software Engineer 👨‍💻<br><br>📍 Based in Milan, Italy 🇮🇹 <br>🔭 I’m currently working at WorkInvoice<br>🌱 I’m currently learning HyperScript and HTMX<br>💡 I'm looking for new opportunities 
   </br>
   </br>
   <a href="https://linkedin.com/in/tomas-droppelmann"> 
